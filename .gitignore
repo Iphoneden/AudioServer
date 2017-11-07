@@ -24,6 +24,10 @@ hs_err_pid*
 # Exclude dirs
 .idea/
 target/
+rec/
 
 # path
 *.iml
+/*.property
+/*.prop
+/separator.wav

@@ -1,0 +1,1 @@
+call sc start AudioServer
